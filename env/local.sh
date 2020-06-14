@@ -1,0 +1,2 @@
+export GITHUB_API_URL="https://api.github.com"
+export GITHUB_TOKEN=$GITHUB_APP_TOKEN #DON'T STORE YOUR TOKENS IN CODE FOLKS
